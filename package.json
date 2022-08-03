@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "express": "^4.18.1",
+    "limdu": "^0.9.4",
+    "neural-network-node": "^1.4.7",
+    "neuro.js": "^0.1.7",
+    "nn": "^0.0.7"
+  }
+}
